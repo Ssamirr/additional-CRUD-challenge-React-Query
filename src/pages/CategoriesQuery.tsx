@@ -28,7 +28,7 @@ function CategoriesQuery() {
         data ? (
           <>
             <div className='header-page'>
-              <h1 className='all-data-list'>Products</h1>
+              <h1 className='all-data-list'>Categories Query</h1>
             </div>
 
             <table className="w3-table-all w3-centered">
@@ -54,7 +54,7 @@ function CategoriesQuery() {
             </table>
           </>
         ) :
-          <h1 className='not-list'>Product list is empty</h1>
+          <h1 className='not-list'>Categories list is empty</h1>
       }
 
 
