@@ -1,4 +1,3 @@
-import axios from "axios";
 import { useQuery } from "react-query";
 import Loading from "../components/Loading";
 import React from 'react'
